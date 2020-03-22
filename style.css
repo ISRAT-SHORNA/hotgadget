@@ -1,0 +1,83 @@
+
+.container{
+    margin-bottom: 100px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.price
+{
+   color: black;
+   font-weight: bold;
+}
+.buy-now{
+    background-color: black;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+.car p{
+    text-align: left;
+}
+.carousel-indicators li {
+    border-radius: 8px;
+    width: 25px;
+    height: 8px;
+    background-color:orange;
+}
+.cat{
+    text-align: center;
+}
+hr { 
+    margin-top: 01em;
+    margin-bottom: 50px;
+    border-radius: 12px;
+    width: 100px;
+    height: 5px;
+    background-image: linear-gradient(to right,#f7e817,orange);
+    border-width: 1px;
+  }
+
+.card{
+    border: none;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: wheat;
+}
+.bag{
+    margin-top: 100px;
+}
+.shoe{
+margin-top: 100px;
+}
+#smartphhone h5,p{
+    text-align: center;
+
+}
+#laptop h5,p{
+    text-align: center;
+
+}
+.orange{
+    font-weight: 700;
+    color: orange;
+}
+li{
+    font-size: 20px;
+}
+.title{
+    padding-bottom: 70px;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+.foot{
+    margin-bottom: 100px;
+}
